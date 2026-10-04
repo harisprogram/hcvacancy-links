@@ -1,0 +1,230 @@
+{
+    "version": "8.1",
+    "updated": "2026-10-15",
+    "links": [
+      {
+        "cat": "gov",
+        "title": "SSCASN BKN — Portal Resmi ASN",
+        "url": "https://sscasn.bkn.go.id",
+        "desc": "Portal utama seleksi CPNS & PPPK. WAJIB daftar akun dulu.",
+        "type": "portal",
+        "prov": ""
+      },
+      {
+        "cat": "gov",
+        "title": "CASN Kemenkes",
+        "url": "https://casn.kemkes.go.id",
+        "desc": "Pengumuman resmi seleksi CPNS & PPPK Kemenkes RI.",
+        "type": "portal",
+        "prov": ""
+      },
+      {
+        "cat": "gov",
+        "title": "Karirhub Kemnaker",
+        "url": "https://karirhub.kemnaker.go.id",
+        "desc": "Portal resmi Kemnaker. Lowongan dari perusahaan terverifikasi.",
+        "type": "portal",
+        "prov": ""
+      },
+      {
+        "cat": "gov",
+        "title": "Rekrutmen Dinkes DKI Jakarta",
+        "url": "https://www.rekrutmendinkes.jakarta.go.id",
+        "desc": "Portal rekrutmen resmi Dinas Kesehatan DKI Jakarta.",
+        "type": "portal",
+        "prov": "DKI Jakarta"
+      },
+      {
+        "cat": "gov",
+        "title": "Dinkes Jawa Timur",
+        "url": "https://dinkes.jatimprov.go.id",
+        "desc": "Pengumuman rekrutmen tenaga kesehatan Jawa Timur.",
+        "type": "portal",
+        "prov": "Jawa Timur"
+      },
+      {
+        "cat": "gov",
+        "title": "BKD Jawa Barat",
+        "url": "https://bkd.jabarprov.go.id",
+        "desc": "Formasi CPNS/PPPK & rekrutmen kesehatan Jabar.",
+        "type": "portal",
+        "prov": "Jawa Barat"
+      },
+      {
+        "cat": "rs",
+        "title": "RSCM Jakarta — Karir Resmi",
+        "url": "https://karier.rscm.co.id",
+        "desc": "Portal karier RSUP Nasional Dr. Cipto Mangunkusumo.",
+        "type": "verified",
+        "prov": "DKI Jakarta"
+      },
+      {
+        "cat": "rs",
+        "title": "RSUD Dr. Soetomo — Rekrutmen",
+        "url": "https://sdm.rsudrsoetomo.jatimprov.go.id/rekrutmen",
+        "desc": "Portal rekrutmen RSUD Dr. Soetomo Surabaya.",
+        "type": "verified",
+        "prov": "Jawa Timur"
+      },
+      {
+        "cat": "rs",
+        "title": "Siloam Hospitals — Karir",
+        "url": "https://www.siloamhospitals.com/karir",
+        "desc": "Career page resmi Siloam Hospitals Group.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "rs",
+        "title": "Mitra Keluarga — Karir",
+        "url": "https://karier.mitrakeluarga.com",
+        "desc": "Portal karir resmi Mitra Keluarga Hospital Group.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "rs",
+        "title": "Hermina Hospitals — Karir",
+        "url": "https://www.herminahospitals.com/careers",
+        "desc": "Career page resmi RS Hermina Group.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "rs",
+        "title": "RS Pondok Indah — Karier",
+        "url": "https://www.rspondokindah.co.id/karier",
+        "desc": "Halaman karier resmi RS Pondok Indah Group.",
+        "type": "verified",
+        "prov": "DKI Jakarta"
+      },
+      {
+        "cat": "rs",
+        "title": "RSUP Dr. Kariadi — Info Rekrutmen",
+        "url": "https://www.rskariadi.co.id",
+        "desc": "Website resmi RSUP Dr. Kariadi Semarang.",
+        "type": "portal",
+        "prov": "Jawa Tengah"
+      },
+      {
+        "cat": "rs",
+        "title": "RSUP Dr. Hasan Sadikin",
+        "url": "https://web.rshs.go.id",
+        "desc": "Website resmi RSUP Dr. Hasan Sadikin Bandung.",
+        "type": "portal",
+        "prov": "Jawa Barat"
+      },
+      {
+        "cat": "rs",
+        "title": "RSUP Prof. Ngoerah Bali",
+        "url": "https://profngoerahhospitalbali.com",
+        "desc": "Website resmi RSUP Prof. Dr. I.G.N.G. Ngoerah Denpasar.",
+        "type": "portal",
+        "prov": "Bali"
+      },
+      {
+        "cat": "corp",
+        "title": "Freeport Indonesia — Karir",
+        "url": "https://ptfi.co.id/id/karir",
+        "desc": "Career page resmi PT Freeport Indonesia.",
+        "type": "verified",
+        "prov": "Papua"
+      },
+      {
+        "cat": "corp",
+        "title": "Pertamina — Rekrutmen Resmi",
+        "url": "https://recruitment.pertamina.com",
+        "desc": "Portal rekrutmen resmi Pertamina.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Adaro Energy — Karir",
+        "url": "https://adarocareer.com",
+        "desc": "Portal karier resmi Adaro Energy Group.",
+        "type": "verified",
+        "prov": "Kalimantan Selatan"
+      },
+      {
+        "cat": "corp",
+        "title": "Antam — Career Jobs",
+        "url": "https://antam.com/id/career/jobs",
+        "desc": "Halaman karir resmi PT Antam Tbk.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Vale Indonesia — Peluang Karier",
+        "url": "https://vale.com/in/indonesia/career",
+        "desc": "Career page resmi PT Vale Indonesia Tbk.",
+        "type": "verified",
+        "prov": "Sulawesi Selatan"
+      },
+      {
+        "cat": "corp",
+        "title": "Medco Energi — Karier",
+        "url": "https://www.medcoenergi.com/en/career",
+        "desc": "Portal karier resmi MedcoEnergi.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "SAKA Energi — Career",
+        "url": "https://www.sakaenergi.com/career",
+        "desc": "Halaman karier resmi Saka Energi Indonesia.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Kalbe Farma — Career",
+        "url": "https://www.kalbe.co.id/en/career",
+        "desc": "Career page resmi Kalbe Farma Group.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Kimia Farma — Rekrutmen",
+        "url": "https://rekrutmen.kimiafarma.co.id",
+        "desc": "Portal rekrutmen resmi PT Kimia Farma Tbk.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Combiphar — Careers",
+        "url": "https://www.combiphar.com/careers",
+        "desc": "Halaman karier resmi Combiphar.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Unilever Indonesia — Careers",
+        "url": "https://careers.unilever.com",
+        "desc": "Portal karier global Unilever. Filter Indonesia.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "corp",
+        "title": "Nestlé Indonesia — Jobs",
+        "url": "https://jobdetails.nestle.com",
+        "desc": "Portal karier resmi Nestlé.",
+        "type": "verified",
+        "prov": ""
+      },
+      {
+        "cat": "rs",
+        "title": "RSUD Jayapura",
+        "url": "https://rsud.jayapurakab.go.id",
+        "desc": "Website resmi RSUD Jayapura. Cek menu Rekrutmen.",
+        "type": "portal",
+        "prov": "Papua"
+      }
+    ]
+  }
